@@ -1,6 +1,6 @@
 {
-  "name": "Jukebox",
-  "short_description": "Spotify jukebox middleware",
+  "name": "FCZTest Jukebox",
+  "short_description": "Fooo Spotify jukebox middleware",
   "tile": "/jukebox/static/image/jukebox.png",
   "contributors": ["benarc"],
   "min_lnbits_version": "0.11.0"
